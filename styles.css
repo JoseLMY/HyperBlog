@@ -6,11 +6,22 @@ body{
 }
 #noticia{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid;
-    margin: 0 auto;
+    margin: 15px auto;
 }
 #noticia h1{
     font-size: 20px;
+}
+#cabecera{
+    background: rgb(14, 61, 75);
+    box-shadow: 0px 8px 20px 0px rgba(12, 107, 136, 0.466);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 5px;
+}
+#post{
+    padding: 1em;
 }
